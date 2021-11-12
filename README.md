@@ -24,4 +24,4 @@ Python, CSV and excel files, collab notebook
 
 MIT license
 
-Permission is hereby given to anyone 
+Permission is hereby given to anyone obtaining a copy of this software and associated documentation files
